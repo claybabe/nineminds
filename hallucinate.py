@@ -15,6 +15,7 @@ cHeight=444
 cellSize=cHeight/9
 
 tk = Tk()
+tk.title("nineminds")
 tk.aspect(1,1,1,1)
 canvas = Canvas(tk, width=cHeight, height=cHeight, bg="dark green")
 canvas.pack(fill=BOTH, expand=1)
