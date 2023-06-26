@@ -5,7 +5,7 @@ neural simulation of classic board game
 ## Debian 12
 install prereqs `sudo apt install git python3.11-venv python3-tk`
 
-clone repo `git clone https://github.com/theOGbaber/nineminds`
+clone repo `git clone https://github.com/claybabe/nineminds`
 
 `cd nineminds`
 
